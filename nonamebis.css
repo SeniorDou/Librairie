@@ -1,0 +1,16 @@
+#rep h1,
+#rep h4 {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.list:not(:last-child){
+    border-bottom: 2px solid black;
+}
+.list{
+    background: border-box rgb(70, 148, 70);
+}
+
+.listb{
+    background: border-box rgb(179, 52, 52);
+}
